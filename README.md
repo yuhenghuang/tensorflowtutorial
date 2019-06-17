@@ -1,3 +1,3 @@
-# Introductory-Tensorflow-Eager
+# collection of deep learning documents
 
-Credits to the tensorflow authors 
+For reference
